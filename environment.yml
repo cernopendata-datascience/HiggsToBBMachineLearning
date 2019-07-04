@@ -1,0 +1,10 @@
+name: analysis
+channels:
+    - conda-forge
+dependencies:
+    - root=6.16.00
+    - keras
+    - tensorflow
+    - pytables
+    - scikit-learn
+    - matplotlib
