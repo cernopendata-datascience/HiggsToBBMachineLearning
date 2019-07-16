@@ -1,0 +1,10 @@
+.cache/
+.jupyter/
+.ipynb_checkpoints/
+.ipython/
+.keras/
+.local/
+keras_model_best.h5
+ntuple_merged_0.h5
+ntuple_merged_10.h5
+

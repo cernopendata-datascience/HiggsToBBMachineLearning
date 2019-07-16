@@ -4,13 +4,12 @@
 HiggsToBBMachineLearning
 ==============================================================================
 
-|open-swan|
+|open-binder|
 
 Author: `Javier Duarte <https://orcid.org/0000-0002-5076-7096>`_
 
-.. |open-swan| image::  http://swanserver.web.cern.ch/swanserver/images/badge_swan_white_150.png
-    :target: https://cern.ch/swanserver/cgi-bin/go?projurl=https://github.com/cernopendata-datascience/HiggsToBBMachineLearning.git
-    :alt: Open in SWAN
+.. |open-binder| image:: https://mybinder.org/badge_logo.svg
+ :target: https://mybinder.org/v2/gh/cernopendata-datascience/HiggsToBBMachineLearning/master?filepath=train.ipynb
 
 Analysis structure
 ==================
@@ -18,9 +17,9 @@ Analysis structure
 1. Input data
 -------------
 
-Training and test HDF5 files from CMS ML open data release. 
+Training and test HDF5 files from CMS ML open data release.
 
-- http://opendata-dev.web.cern.ch/record/12102
+- http://opendata.cern.ch/record/12102
 
 
 2. Analysis code
@@ -45,7 +44,7 @@ Run example notebook:
 5. Output results
 -----------------
 
-Example ouput ROC curve from training 
+Example ouput ROC curve from training
 
 .. figure:: https://github.com/cernopendata-datascience/HiggsToBBMachineLearning/raw/master/ROC.png
    :alt: ROC.png
