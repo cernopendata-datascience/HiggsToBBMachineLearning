@@ -32,7 +32,7 @@ Example ML training notebook:
 3. Compute environment
 ----------------------
 
-Click badge above to open in SWAN: CentOS 7 (gcc7), SWAN sotware stack 95a.
+Click badge above to open in https://mybinder.org.
 
 4. Analysis workflow
 --------------------
